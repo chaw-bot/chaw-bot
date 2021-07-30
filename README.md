@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: 
+  - Twitter : [chaw](twitter.com/chaw36422087)
+  - LinkedIn : [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/)
 
 <!--
 **chaw-bot/chaw-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
