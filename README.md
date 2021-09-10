@@ -2,10 +2,10 @@
 
 My name is Chawanzi, but most people call me Chaw.
 I like to code, binge-watch anime and take hikes.
+Love the bands Bastille and Linkin Park 🤘🏾🎼🎧
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on any JavaScript projects
+- 👯 I’m looking to collaborate on any vanilla JavaScript projects
 - 📫 How to reach me: 
   - Twitter : [chaw](twitter.com/chaw36422087)
   - LinkedIn : [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/)
