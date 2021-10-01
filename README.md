@@ -6,6 +6,7 @@ Love the bands Bastille and Linkin Park 🤘🏾🎼🎧
 
 - 😄 Pronouns: She/Her
 - 👯 I’m looking to collaborate on any JavaScript projects
+- Open to new job opportunities
 - 📫 How to reach me: 
   - Twitter : [chaw](twitter.com/chaw36422087)
   - LinkedIn : [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/)
