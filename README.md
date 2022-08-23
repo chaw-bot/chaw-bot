@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Chawanzi, but most people call me Chaw.
-I like to code, binge-watch anime and take hikes.
+I like to code, binge-watch stuff, eat popcorn, and take hikes.
 Love the bands Bastille and Linkin Park 🤘🏾🎼🎧
 
 - 😄 Pronouns: She/Her
@@ -9,8 +9,8 @@ Love the bands Bastille and Linkin Park 🤘🏾🎼🎧
 - Available for remote opportunities.
 - Open to new job opportunities
 - 📫 How to reach me: 
-  - Twitter : [chaw](twitter.com/chaw36422087)
-  - LinkedIn : [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/)
+  - Twitter : [chaw](https://twitter.com/chawfronaut)
+  - LinkedIn : [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni/)
 
 <!--
 **chaw-bot/chaw-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
